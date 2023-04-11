@@ -1,0 +1,26 @@
+[
+    {
+        "id": "cat-1",
+        "cat_name": "Engineering & IT",
+        "cat_logo": "https: //ibb.co/f2jPvQL",
+        "jobs_available": 300
+    },
+    {
+        "id": "cat-2",
+        "cat_name": "Account & Finance",
+        "cat_logo": "https://ibb.co/YtX4TBD",
+        "jobs_available": 250
+    },
+    {
+        "id": "cat-3",
+        "cat_name": "Creative Design",
+        "cat_logo": "https: //ibb.co/h2sMrVs",
+        "jobs_available": 100
+    },
+    {
+        "id": "cat-4",
+        "cat_name": "Marketing & Sales",
+        "cat_logo": "https: //ibb.co/Q8MQg39",
+        "jobs_available": 200
+    }
+]
