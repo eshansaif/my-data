@@ -2,24 +2,24 @@
     {
         "id": "cat-1",
         "cat_name": "Engineering & IT",
-        "cat_logo": "https: //ibb.co/f2jPvQL",
+        "cat_logo": "https://i.ibb.co/k3XB7sK/chip-1.png",
         "jobs_available": 300
     },
     {
         "id": "cat-2",
         "cat_name": "Account & Finance",
-        "cat_logo": "https://ibb.co/YtX4TBD",
+        "cat_logo": "https://i.ibb.co/vJhCv4s/accounts-1.png",
         "jobs_available": 250
     },
     {
         "id": "cat-3",
         "cat_name": "Creative Design",
-        "cat_logo": "https: //ibb.co/h2sMrVs",
+        "cat_logo": "https://i.ibb.co/dkBcXDB/social-media-1.png",
         "jobs_available": 100
     },
     {
         "id": "cat-4",
-        "cat_name": "Marketing & Sales",
+        "cat_name": "https://i.ibb.co/NscHS7b/business-1.png",
         "cat_logo": "https: //ibb.co/Q8MQg39",
         "jobs_available": 200
     }
