@@ -12,12 +12,8 @@
         "job_description": "You will be deeply involved in the technical details of expanding on the work we started with Project Lighthouse, in close collaboration with product, engineering and operations teams. Your work will help ensure that teams across the company are empowered with the insights necessary to address inequities within their features and surface areas, head-on -- ultimately enabling us to build a product that fosters true belonging amongst members of the Airbnb community.",
         "educational_requirements": "Bachelor/Masters in CSE/IT/EEE or Related Subjects",
         "experiences": "No Previous Experience is needed",
-        "contact_info": [
-            {
-                "phone": "+1 (839) 473-2408",
-                "email": "katheryncampbell@primordia.com"
-            }
-        ]
+        "phone": "+1 (839) 473-2408",
+        "email": "katheryncampbell@primordia.com"
     },
     {
         "job_id": "6435cafdb980691b3b88dab8",
@@ -32,12 +28,8 @@
         "job_description": "This is a key role in building the future of VR games and entertainment with the Beat Games team. We are a growing team of leaders in the VR industry at the cutting edge of where music and games come together. This role will help deliver new features, services, and improvements to Beat Saber across multiple VR platforms.",
         "educational_requirements": "Education doesn't matter if you have proper expertise",
         "experiences": "No Experiences needed.",
-        "contact_info": [
-            {
-                "phone": "+1 (906) 583-3625",
-                "email": "career@meta.com"
-            }
-        ]
+        "phone": "+1 (906) 583-3625",
+        "email": "career@meta.com"
     },
     {
         "job_id": "6435cafd0f9f6b05b3b2d657",
@@ -52,12 +44,8 @@
         "job_description": "Working at Google is a dream for many software engineers. While the job comes with many perks and a lucrative salary and benefits, it is also important to know what exactly the role of a software engineer entails. Understanding the role will help you plan your interview prep.",
         "educational_requirements": "Bachelor/Masters From Any Background",
         "experiences": "1 year or more in relevant sector",
-        "contact_info": [
-            {
-                "phone": "+1 (886) 426-3002",
-                "email": "vickymathews@google.com"
-            }
-        ]
+        "phone": "+1 (886) 426-3002",
+        "email": "vickymathews@google.com"
     },
     {
         "job_id": "6435cafd934e73eb0168b2b6",
@@ -72,12 +60,8 @@
         "job_description": "Providing peace of mind for our customers with our security solutions is what excites us every day! Our team has people from a wide variety of backgrounds, previous work histories, and life experiences, and we are eager to maintain and grow that diversity. We are passionate about learning on the job, collaborating with other teams, and being customer obsessed. ",
         "educational_requirements": "BS or MS degree in Computer Science ",
         "experiences": "3 year or more in relevant sector",
-        "contact_info": [
-            {
-                "phone": "+2 (654) 426-3445",
-                "email": "jobs@microsoft.com"
-            }
-        ]
+        "phone": "+2 (654) 426-3445",
+        "email": "jobs@microsoft.com"
     },
     {
         "job_id": "6435cafdf4bfd090a3e56a36",
@@ -92,12 +76,8 @@
         "job_description": "Much of the ML literature focuses on model training, evaluation, and scoring. In this post, we will explore an understudied aspect of the ML lifecycle: integration of model outputs into applications.",
         "educational_requirements": "BS or MS degree in Computer Science ",
         "experiences": "0 Year of Experience",
-        "contact_info": [
-            {
-                "phone": "+25 (654) 426-544",
-                "email": "career@netflix.com"
-            }
-        ]
+        "phone": "+25 (654) 426-544",
+        "email": "career@netflix.com"
     },
     {
         "job_id": "6435cafdf4bfd090a3e58h39",
@@ -112,11 +92,7 @@
         "job_description": "As Tesla continues to vertically integrate our operations,Tesla's Materials Engineering group is looking for a highly motivated Senior Electrical Engineer to work on a critical challenge facing the world's energy transition - expanding production of cathode materials and cathode raw material refining systems.",
         "educational_requirements": "BS or MS degree in EEE",
         "experiences": "5 Years of Experience",
-        "contact_info": [
-            {
-                "phone": "+3 (654) 653-6532",
-                "email": "career@tesla.com"
-            }
-        ]
+        "phone": "+3 (654) 653-6532",
+        "email": "career@tesla.com"
     }
 ]
